@@ -1,5 +1,6 @@
 import React from 'react';
 import Nav from "../components/Nav"
+import { Button } from '@mui/material';
 
 
 function Home() {
@@ -8,6 +9,7 @@ function Home() {
   return (
     <>
       <Nav />
+     <Button variant="contained">Hello world</Button>
     </>
   )
 }
