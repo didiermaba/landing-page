@@ -27,3 +27,7 @@ li, a {
   list-style: none;
   text-decoration: none;
 }
+.stack {
+  margin-right: 0;
+  margin-left: 0;
+}
